@@ -1,0 +1,123 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.top-1{
+    height: 600px;
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+}
+.main{
+    margin-left: 15%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.common-color{
+    color: rgb(236, 76, 122);
+}
+.name-hl{
+    font-size: 40px;
+}
+.lorem{
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.bttn{
+    text-decoration: none;
+    border: 1px solid rgb(236, 76, 122);
+    background-color: rgb(236, 76, 122);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.half{
+    width: 40%;
+    float: left;
+}
+.box{
+    width: 500px;
+    height: 500px;
+}
+
+
+
+.top-2{
+    height: 850px;
+    background-image: url(img/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.main-2{
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.box-2{
+    width: 500px;
+    height: 640px;
+}
+.conteiner{
+    margin-top: 10%;
+}
+.conteiner-2{
+    margin-top: 23%;
+    margin-left: 10%;
+}
+
+
+.top-3{
+    height: 700px;
+    background-image: url(img/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.box-3{
+    width: 28%;
+    float: left;
+    margin: 1%;
+}
+.example{
+    margin-left: 7%;
+}
+.work-title-div{
+    padding-top: 8%;
+    height: 30%;
+}
+.work-title{
+    text-align: center;
+}
+
+
+.footer{
+    height: 700px;
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.copyright-weight{
+    font-weight: 200;
+}
+.footer-text{
+    text-align: center;
+}
+.fotter-h{
+    padding-top: 5%;
+    height: 20%;
+}
+.footer-bttn{
+    width: 50%;
+    height: 150px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.dec{
+    text-decoration: none;
+}
+.massage{
+    color: white;
+    font-size: 25px;
+    border-bottom: 50px;
+}
+.email{
+    color: white;
+    font-size: 40px;
+    border-bottom: 50px;
+}
